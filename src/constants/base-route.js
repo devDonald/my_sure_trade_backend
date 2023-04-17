@@ -1,0 +1,11 @@
+export const BASE_ROUTE = '/api/v2';
+export const GIFT_CARD_BASE_ROUTE = BASE_ROUTE + '/gift-cards';
+export const USER_BASE_ROUTE = BASE_ROUTE + '/users';
+export const GIFT_CARD_RATE_BASE_ROUTE = BASE_ROUTE + '/gift-card-rates';
+export const GIFT_CARD_TRANSACTION_BASE_ROUTE = BASE_ROUTE + '/gift-card-transactions';
+export const CURRENCY_BASE_ROUTE = BASE_ROUTE + '/currencies';
+export const PAYMENT_BASE_ROUTE = BASE_ROUTE + '/payments';
+export const BANK_DETAILS_BASE_ROUTE = BASE_ROUTE + '/bank-details';
+export const ADMIN_BASE_ROUTE = BASE_ROUTE + '/admins';
+export const AUTH_BASE_ROUTE = BASE_ROUTE + '/auth';
+export const SWAGGER_BASE_ROUTE = BASE_ROUTE + '/docs';
